@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a9946d7a-df27-4e0a-a047-6003d5d8f270" name="daihoubang" url="http://99.48.58.95">
+        <fileTransfer host="99.48.58.95" port="22" rootFolder="/root/liuxuewen/captcha_crack/daihoubang" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
